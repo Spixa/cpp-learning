@@ -22,4 +22,23 @@ main.cpp's.
 			Why:
 				idk lol I studied this in math today and I taught it would
 				be cool if I coded it in C++ and made it automated
-		
+			Date:
+				10:30 AM 12/12/2020
+		*3D_shape_info.cpp
+			Command line arguments:
+				./program <shape x> <shape y> <shape z>
+					Arguments are self-explanatory
+			Usage:
+				Enlists some information about 3D shapes.
+			Output:
+				Shape volume
+				Shape surface
+			Why:
+				same for the last program, we learnt it in school 9 months ago and as my
+				first C++ program I wrote this.			
+
+			Date:
+				~ Around April 2020
+				First C++ Program I wrote
+				Code modified for command-line argument support.
+					1:00 PM 12/12/2020
